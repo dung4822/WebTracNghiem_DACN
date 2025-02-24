@@ -1,0 +1,933 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WebTracNgiem\\WebTracNghiemOnline\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|d:\\webtracngiem\\webtracnghiemonline\\webtracnghiemonline\\service\\topicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|solutionrelative:webtracnghiemonline\\service\\topicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|d:\\webtracngiem\\webtracnghiemonline\\webtracnghiemonline\\repository\\itopicrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|solutionrelative:webtracnghiemonline\\repository\\itopicrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|d:\\webtracngiem\\webtracnghiemonline\\webtracnghiemonline\\models\\fileattachment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|solutionrelative:webtracnghiemonline\\models\\fileattachment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|d:\\webtracngiem\\webtracnghiemonline\\webtracnghiemonline\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|solutionrelative:webtracnghiemonline\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|d:\\webtracngiem\\webtracnghiemonline\\webtracnghiemonline\\mappings\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|solutionrelative:webtracnghiemonline\\mappings\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|d:\\webtracngiem\\webtracnghiemonline\\webtracnghiemonline\\exceptions\\onlineroomexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|solutionrelative:webtracnghiemonline\\exceptions\\onlineroomexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|d:\\webtracngiem\\webtracnghiemonline\\webtracnghiemonline\\controllers\\onlineroomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|solutionrelative:webtracnghiemonline\\controllers\\onlineroomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|d:\\webtracngiem\\webtracnghiemonline\\webtracnghiemonline\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|solutionrelative:webtracnghiemonline\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|d:\\webtracngiem\\webtracnghiemonline\\webtracnghiemonline\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|solutionrelative:webtracnghiemonline\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|d:\\webtracngiem\\webtracnghiemonline\\webtracnghiemonline\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|solutionrelative:webtracnghiemonline\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|d:\\webtracngiem\\webtracnghiemonline\\webtracnghiemonline\\controllers\\vnpaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|solutionrelative:webtracnghiemonline\\controllers\\vnpaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|d:\\webtracngiem\\webtracnghiemonline\\webtracnghiemonline\\configuration\\jwtconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|solutionrelative:webtracnghiemonline\\configuration\\jwtconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|d:\\webtracngiem\\webtracnghiemonline\\webtracnghiemonline\\service\\vnpayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|solutionrelative:webtracnghiemonline\\service\\vnpayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|d:\\webtracngiem\\webtracnghiemonline\\webtracnghiemonline\\vnpaylibrary\\vnpaylibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|solutionrelative:webtracnghiemonline\\vnpaylibrary\\vnpaylibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|d:\\webtracngiem\\webtracnghiemonline\\webtracnghiemonline\\dto\\useranswerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|solutionrelative:webtracnghiemonline\\dto\\useranswerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|d:\\webtracngiem\\webtracnghiemonline\\webtracnghiemonline\\models\\useronlineroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|solutionrelative:webtracnghiemonline\\models\\useronlineroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|d:\\webtracngiem\\webtracnghiemonline\\webtracnghiemonline\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|solutionrelative:webtracnghiemonline\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|d:\\webtracngiem\\webtracnghiemonline\\webtracnghiemonline\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|solutionrelative:webtracnghiemonline\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|d:\\webtracngiem\\webtracnghiemonline\\webtracnghiemonline\\access\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|solutionrelative:webtracnghiemonline\\access\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|d:\\webtracngiem\\webtracnghiemonline\\webtracnghiemonline\\controllers\\subjectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|solutionrelative:webtracnghiemonline\\controllers\\subjectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|d:\\webtracngiem\\webtracnghiemonline\\webtracnghiemonline\\controllers\\answercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|solutionrelative:webtracnghiemonline\\controllers\\answercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|d:\\webtracngiem\\webtracnghiemonline\\webtracnghiemonline\\service\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|solutionrelative:webtracnghiemonline\\service\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|d:\\webtracngiem\\webtracnghiemonline\\webtracnghiemonline\\service\\onlineroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|solutionrelative:webtracnghiemonline\\service\\onlineroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|d:\\webtracngiem\\webtracnghiemonline\\webtracnghiemonline\\repository\\onlineroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|solutionrelative:webtracnghiemonline\\repository\\onlineroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|d:\\webtracngiem\\webtracnghiemonline\\webtracnghiemonline\\controllers\\examscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|solutionrelative:webtracnghiemonline\\controllers\\examscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|d:\\webtracngiem\\webtracnghiemonline\\webtracnghiemonline\\repository\\examrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|solutionrelative:webtracnghiemonline\\repository\\examrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|d:\\webtracngiem\\webtracnghiemonline\\webtracnghiemonline\\service\\examservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|solutionrelative:webtracnghiemonline\\service\\examservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|d:\\webtracngiem\\webtracnghiemonline\\webtracnghiemonline\\controllers\\topiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|solutionrelative:webtracnghiemonline\\controllers\\topiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|d:\\webtracngiem\\webtracnghiemonline\\webtracnghiemonline\\models\\examhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|solutionrelative:webtracnghiemonline\\models\\examhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|d:\\webtracngiem\\webtracnghiemonline\\webtracnghiemonline\\service\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|solutionrelative:webtracnghiemonline\\service\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|d:\\webtracngiem\\webtracnghiemonline\\webtracnghiemonline\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|solutionrelative:webtracnghiemonline\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|d:\\webtracngiem\\webtracnghiemonline\\webtracnghiemonline\\repository\\subjectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|solutionrelative:webtracnghiemonline\\repository\\subjectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|d:\\webtracngiem\\webtracnghiemonline\\webtracnghiemonline\\repository\\postrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|solutionrelative:webtracnghiemonline\\repository\\postrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|d:\\webtracngiem\\webtracnghiemonline\\webtracnghiemonline\\repository\\topicrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|solutionrelative:webtracnghiemonline\\repository\\topicrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|d:\\webtracngiem\\webtracnghiemonline\\webtracnghiemonline\\service\\subjectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|solutionrelative:webtracnghiemonline\\service\\subjectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|d:\\webtracngiem\\webtracnghiemonline\\webtracnghiemonline\\dto\\topicdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|solutionrelative:webtracnghiemonline\\dto\\topicdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|d:\\webtracngiem\\webtracnghiemonline\\webtracnghiemonline\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|solutionrelative:webtracnghiemonline\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|d:\\webtracngiem\\webtracnghiemonline\\webtracnghiemonline\\models\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|solutionrelative:webtracnghiemonline\\models\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|d:\\webtracngiem\\webtracnghiemonline\\webtracnghiemonline\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|solutionrelative:webtracnghiemonline\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|d:\\webtracngiem\\webtracnghiemonline\\webtracnghiemonline\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|solutionrelative:webtracnghiemonline\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|d:\\webtracngiem\\webtracnghiemonline\\webtracnghiemonline\\models\\topic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|solutionrelative:webtracnghiemonline\\models\\topic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|d:\\webtracngiem\\webtracnghiemonline\\webtracnghiemonline\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|solutionrelative:webtracnghiemonline\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|d:\\webtracngiem\\webtracnghiemonline\\webtracnghiemonline\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|solutionrelative:webtracnghiemonline\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|d:\\webtracngiem\\webtracnghiemonline\\webtracnghiemonline\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|solutionrelative:webtracnghiemonline\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|d:\\webtracngiem\\webtracnghiemonline\\webtracnghiemonline\\repository\\transactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|solutionrelative:webtracnghiemonline\\repository\\transactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|d:\\webtracngiem\\webtracnghiemonline\\webtracnghiemonline\\service\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|solutionrelative:webtracnghiemonline\\service\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|d:\\webtracngiem\\webtracnghiemonline\\webtracnghiemonline\\dto\\exercisehistorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|solutionrelative:webtracnghiemonline\\dto\\exercisehistorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|d:\\webtracngiem\\webtracnghiemonline\\webtracnghiemonline\\models\\exercisehistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|solutionrelative:webtracnghiemonline\\models\\exercisehistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|d:\\webtracngiem\\webtracnghiemonline\\webtracnghiemonline\\models\\exerciseanswer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|solutionrelative:webtracnghiemonline\\models\\exerciseanswer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|d:\\webtracngiem\\webtracnghiemonline\\webtracnghiemonline\\models\\exercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|solutionrelative:webtracnghiemonline\\models\\exercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|d:\\webtracngiem\\webtracnghiemonline\\webtracnghiemonline\\models\\examhistoryanswer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|solutionrelative:webtracnghiemonline\\models\\examhistoryanswer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|d:\\webtracngiem\\webtracnghiemonline\\webtracnghiemonline\\models\\onlineroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|solutionrelative:webtracnghiemonline\\models\\onlineroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|d:\\webtracngiem\\webtracnghiemonline\\webtracnghiemonline\\models\\examquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|solutionrelative:webtracnghiemonline\\models\\examquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|d:\\webtracngiem\\webtracnghiemonline\\webtracnghiemonline\\controllers\\externalauthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|solutionrelative:webtracnghiemonline\\controllers\\externalauthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|d:\\webtracngiem\\webtracnghiemonline\\webtracnghiemonline\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|solutionrelative:webtracnghiemonline\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|d:\\webtracngiem\\webtracnghiemonline\\webtracnghiemonline\\migrations\\20250110071944_createdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA324BE2-BF88-498B-BAC7-DD5E54EE1952}|WebTracNghiemOnline\\WebTracNghiemOnline.csproj|solutionrelative:webtracnghiemonline\\migrations\\20250110071944_createdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cf577b8c-4134-11d2-83e5-00c04f9902c1}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ITopicRepository.cs",
+              "DocumentMoniker": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\Repository\\ITopicRepository.cs",
+              "RelativeDocumentMoniker": "WebTracNghiemOnline\\Repository\\ITopicRepository.cs",
+              "ToolTip": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\Repository\\ITopicRepository.cs",
+              "RelativeToolTip": "WebTracNghiemOnline\\Repository\\ITopicRepository.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T03:00:45.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileAttachment.cs",
+              "DocumentMoniker": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\Models\\FileAttachment.cs",
+              "RelativeDocumentMoniker": "WebTracNghiemOnline\\Models\\FileAttachment.cs",
+              "ToolTip": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\Models\\FileAttachment.cs",
+              "RelativeToolTip": "WebTracNghiemOnline\\Models\\FileAttachment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T03:00:42.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\Models\\Notification.cs",
+              "RelativeDocumentMoniker": "WebTracNghiemOnline\\Models\\Notification.cs",
+              "ToolTip": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\Models\\Notification.cs",
+              "RelativeToolTip": "WebTracNghiemOnline\\Models\\Notification.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T03:00:41.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OnlineRoomException.cs",
+              "DocumentMoniker": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\Exceptions\\OnlineRoomException.cs",
+              "RelativeDocumentMoniker": "WebTracNghiemOnline\\Exceptions\\OnlineRoomException.cs",
+              "ToolTip": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\Exceptions\\OnlineRoomException.cs",
+              "RelativeToolTip": "WebTracNghiemOnline\\Exceptions\\OnlineRoomException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T03:00:33.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TopicService.cs",
+              "DocumentMoniker": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\Service\\TopicService.cs",
+              "RelativeDocumentMoniker": "WebTracNghiemOnline\\Service\\TopicService.cs",
+              "ToolTip": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\Service\\TopicService.cs",
+              "RelativeToolTip": "WebTracNghiemOnline\\Service\\TopicService.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAUwDYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T10:45:52.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "WebTracNghiemOnline\\Controllers\\PaymentController.cs",
+              "ToolTip": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "WebTracNghiemOnline\\Controllers\\PaymentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T02:59:45.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\appsettings.json",
+              "RelativeDocumentMoniker": "WebTracNghiemOnline\\appsettings.json",
+              "ToolTip": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\appsettings.json",
+              "RelativeToolTip": "WebTracNghiemOnline\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-26T13:07:02.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\Mappings\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "WebTracNghiemOnline\\Mappings\\AutoMapperProfile.cs",
+              "ToolTip": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\Mappings\\AutoMapperProfile.cs",
+              "RelativeToolTip": "WebTracNghiemOnline\\Mappings\\AutoMapperProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T03:35:14.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "VNPayController.cs",
+              "DocumentMoniker": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\Controllers\\VNPayController.cs",
+              "RelativeDocumentMoniker": "WebTracNghiemOnline\\Controllers\\VNPayController.cs",
+              "ToolTip": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\Controllers\\VNPayController.cs",
+              "RelativeToolTip": "WebTracNghiemOnline\\Controllers\\VNPayController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAqwCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T22:18:31.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OnlineRoomController.cs",
+              "DocumentMoniker": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\Controllers\\OnlineRoomController.cs",
+              "RelativeDocumentMoniker": "WebTracNghiemOnline\\Controllers\\OnlineRoomController.cs",
+              "ToolTip": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\Controllers\\OnlineRoomController.cs",
+              "RelativeToolTip": "WebTracNghiemOnline\\Controllers\\OnlineRoomController.cs",
+              "ViewState": "AQIAABUBAAAAAAAAAAAUwBIBAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T16:19:43.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "VNPAYService.cs",
+              "DocumentMoniker": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\Service\\VNPAYService.cs",
+              "RelativeDocumentMoniker": "WebTracNghiemOnline\\Service\\VNPAYService.cs",
+              "ToolTip": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\Service\\VNPAYService.cs",
+              "RelativeToolTip": "WebTracNghiemOnline\\Service\\VNPAYService.cs",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAqwJEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T13:41:59.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "WebTracNghiemOnline\\appsettings.Development.json",
+              "ToolTip": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\appsettings.Development.json",
+              "RelativeToolTip": "WebTracNghiemOnline\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-26T13:43:11.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserAnswerDto.cs",
+              "DocumentMoniker": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\DTO\\UserAnswerDto.cs",
+              "RelativeDocumentMoniker": "WebTracNghiemOnline\\DTO\\UserAnswerDto.cs",
+              "ToolTip": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\DTO\\UserAnswerDto.cs",
+              "RelativeToolTip": "WebTracNghiemOnline\\DTO\\UserAnswerDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T07:39:29.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "JwtConfig.cs",
+              "DocumentMoniker": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\Configuration\\JwtConfig.cs",
+              "RelativeDocumentMoniker": "WebTracNghiemOnline\\Configuration\\JwtConfig.cs",
+              "ToolTip": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\Configuration\\JwtConfig.cs",
+              "RelativeToolTip": "WebTracNghiemOnline\\Configuration\\JwtConfig.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T13:50:32.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "VnPayLibrary.cs",
+              "DocumentMoniker": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\VnPayLibrary\\VnPayLibrary.cs",
+              "RelativeDocumentMoniker": "WebTracNghiemOnline\\VnPayLibrary\\VnPayLibrary.cs",
+              "ToolTip": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\VnPayLibrary\\VnPayLibrary.cs",
+              "RelativeToolTip": "WebTracNghiemOnline\\VnPayLibrary\\VnPayLibrary.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAiwHYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T07:40:03.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\Access\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "WebTracNghiemOnline\\Access\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\Access\\ApplicationDbContext.cs",
+              "RelativeToolTip": "WebTracNghiemOnline\\Access\\ApplicationDbContext.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAAwG4AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T14:28:06.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\Program.cs",
+              "RelativeDocumentMoniker": "WebTracNghiemOnline\\Program.cs",
+              "ToolTip": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\Program.cs",
+              "RelativeToolTip": "WebTracNghiemOnline\\Program.cs",
+              "ViewState": "AQIAAOIAAAAAAAAAAAAuwPIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T12:45:53.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserOnlineRoom.cs",
+              "DocumentMoniker": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\Models\\UserOnlineRoom.cs",
+              "RelativeDocumentMoniker": "WebTracNghiemOnline\\Models\\UserOnlineRoom.cs",
+              "ToolTip": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\Models\\UserOnlineRoom.cs",
+              "RelativeToolTip": "WebTracNghiemOnline\\Models\\UserOnlineRoom.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAgwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T12:58:41.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "WebTracNghiemOnline\\Repository\\UserRepository.cs",
+              "ToolTip": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "WebTracNghiemOnline\\Repository\\UserRepository.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAUwAwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T12:58:57.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SubjectsController.cs",
+              "DocumentMoniker": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\Controllers\\SubjectsController.cs",
+              "RelativeDocumentMoniker": "WebTracNghiemOnline\\Controllers\\SubjectsController.cs",
+              "ToolTip": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\Controllers\\SubjectsController.cs",
+              "RelativeToolTip": "WebTracNghiemOnline\\Controllers\\SubjectsController.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAUwDsAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T10:44:50.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "20250110071944_createdb.cs",
+              "DocumentMoniker": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\Migrations\\20250110071944_createdb.cs",
+              "RelativeDocumentMoniker": "WebTracNghiemOnline\\Migrations\\20250110071944_createdb.cs",
+              "ToolTip": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\Migrations\\20250110071944_createdb.cs",
+              "RelativeToolTip": "WebTracNghiemOnline\\Migrations\\20250110071944_createdb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T07:19:44.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PostService.cs",
+              "DocumentMoniker": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\Service\\PostService.cs",
+              "RelativeDocumentMoniker": "WebTracNghiemOnline\\Service\\PostService.cs",
+              "ToolTip": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\Service\\PostService.cs",
+              "RelativeToolTip": "WebTracNghiemOnline\\Service\\PostService.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T12:50:57.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AnswerController.cs",
+              "DocumentMoniker": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\Controllers\\AnswerController.cs",
+              "RelativeDocumentMoniker": "WebTracNghiemOnline\\Controllers\\AnswerController.cs",
+              "ToolTip": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\Controllers\\AnswerController.cs",
+              "RelativeToolTip": "WebTracNghiemOnline\\Controllers\\AnswerController.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T06:58:04.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\Service\\EmailService.cs",
+              "RelativeDocumentMoniker": "WebTracNghiemOnline\\Service\\EmailService.cs",
+              "ToolTip": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\Service\\EmailService.cs",
+              "RelativeToolTip": "WebTracNghiemOnline\\Service\\EmailService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T13:04:45.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "OnlineRoomService.cs",
+              "DocumentMoniker": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\Service\\OnlineRoomService.cs",
+              "RelativeDocumentMoniker": "WebTracNghiemOnline\\Service\\OnlineRoomService.cs",
+              "ToolTip": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\Service\\OnlineRoomService.cs",
+              "RelativeToolTip": "WebTracNghiemOnline\\Service\\OnlineRoomService.cs",
+              "ViewState": "AQIAAOQAAAAAAAAAAAAswPoAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T13:05:52.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "OnlineRoomRepository.cs",
+              "DocumentMoniker": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\Repository\\OnlineRoomRepository.cs",
+              "RelativeDocumentMoniker": "WebTracNghiemOnline\\Repository\\OnlineRoomRepository.cs",
+              "ToolTip": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\Repository\\OnlineRoomRepository.cs",
+              "RelativeToolTip": "WebTracNghiemOnline\\Repository\\OnlineRoomRepository.cs",
+              "ViewState": "AQIAAIkAAAAAAAAAAADwv6AAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T03:05:14.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ExamsController.cs",
+              "DocumentMoniker": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\Controllers\\ExamsController.cs",
+              "RelativeDocumentMoniker": "WebTracNghiemOnline\\Controllers\\ExamsController.cs",
+              "ToolTip": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\Controllers\\ExamsController.cs",
+              "RelativeToolTip": "WebTracNghiemOnline\\Controllers\\ExamsController.cs",
+              "ViewState": "AQIAAIYAAAAAAAAAAAAiwJkAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T11:06:03.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ExamRepository.cs",
+              "DocumentMoniker": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\Repository\\ExamRepository.cs",
+              "RelativeDocumentMoniker": "WebTracNghiemOnline\\Repository\\ExamRepository.cs",
+              "ToolTip": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\Repository\\ExamRepository.cs",
+              "RelativeToolTip": "WebTracNghiemOnline\\Repository\\ExamRepository.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAQwEoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T11:13:31.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "TopicDTO.cs",
+              "DocumentMoniker": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\DTO\\TopicDTO.cs",
+              "RelativeDocumentMoniker": "WebTracNghiemOnline\\DTO\\TopicDTO.cs",
+              "ToolTip": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\DTO\\TopicDTO.cs",
+              "RelativeToolTip": "WebTracNghiemOnline\\DTO\\TopicDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T10:45:16.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ExamHistory.cs",
+              "DocumentMoniker": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\Models\\ExamHistory.cs",
+              "RelativeDocumentMoniker": "WebTracNghiemOnline\\Models\\ExamHistory.cs",
+              "ToolTip": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\Models\\ExamHistory.cs",
+              "RelativeToolTip": "WebTracNghiemOnline\\Models\\ExamHistory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T03:04:41.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ExamService.cs",
+              "DocumentMoniker": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\Service\\ExamService.cs",
+              "RelativeDocumentMoniker": "WebTracNghiemOnline\\Service\\ExamService.cs",
+              "ToolTip": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\Service\\ExamService.cs",
+              "RelativeToolTip": "WebTracNghiemOnline\\Service\\ExamService.cs",
+              "ViewState": "AQIAAAABAAAAAAAAAAAswBMBAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T11:12:17.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "TopicRepository.cs",
+              "DocumentMoniker": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\Repository\\TopicRepository.cs",
+              "RelativeDocumentMoniker": "WebTracNghiemOnline\\Repository\\TopicRepository.cs",
+              "ToolTip": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\Repository\\TopicRepository.cs",
+              "RelativeToolTip": "WebTracNghiemOnline\\Repository\\TopicRepository.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAIwD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T10:45:38.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "TopicController.cs",
+              "DocumentMoniker": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\Controllers\\TopicController.cs",
+              "RelativeDocumentMoniker": "WebTracNghiemOnline\\Controllers\\TopicController.cs",
+              "ToolTip": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\Controllers\\TopicController.cs",
+              "RelativeToolTip": "WebTracNghiemOnline\\Controllers\\TopicController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAswBYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T10:44:30.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "WebTracNghiemOnline\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "WebTracNghiemOnline\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAgwHwAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T16:31:33.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "SubjectService.cs",
+              "DocumentMoniker": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\Service\\SubjectService.cs",
+              "RelativeDocumentMoniker": "WebTracNghiemOnline\\Service\\SubjectService.cs",
+              "ToolTip": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\Service\\SubjectService.cs",
+              "RelativeToolTip": "WebTracNghiemOnline\\Service\\SubjectService.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAIwDwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T10:45:58.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "SubjectRepository.cs",
+              "DocumentMoniker": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\Repository\\SubjectRepository.cs",
+              "RelativeDocumentMoniker": "WebTracNghiemOnline\\Repository\\SubjectRepository.cs",
+              "ToolTip": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\Repository\\SubjectRepository.cs",
+              "RelativeToolTip": "WebTracNghiemOnline\\Repository\\SubjectRepository.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAA1wDkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T10:46:21.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "PostRepository.cs",
+              "DocumentMoniker": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\Repository\\PostRepository.cs",
+              "RelativeDocumentMoniker": "WebTracNghiemOnline\\Repository\\PostRepository.cs",
+              "ToolTip": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\Repository\\PostRepository.cs",
+              "RelativeToolTip": "WebTracNghiemOnline\\Repository\\PostRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T10:46:19.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Exam.cs",
+              "DocumentMoniker": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\Models\\Exam.cs",
+              "RelativeDocumentMoniker": "WebTracNghiemOnline\\Models\\Exam.cs",
+              "ToolTip": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\Models\\Exam.cs",
+              "RelativeToolTip": "WebTracNghiemOnline\\Models\\Exam.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T10:43:42.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Question.cs",
+              "DocumentMoniker": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\Models\\Question.cs",
+              "RelativeDocumentMoniker": "WebTracNghiemOnline\\Models\\Question.cs",
+              "ToolTip": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\Models\\Question.cs",
+              "RelativeToolTip": "WebTracNghiemOnline\\Models\\Question.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T10:43:28.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\Models\\Subject.cs",
+              "RelativeDocumentMoniker": "WebTracNghiemOnline\\Models\\Subject.cs",
+              "ToolTip": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\Models\\Subject.cs",
+              "RelativeToolTip": "WebTracNghiemOnline\\Models\\Subject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T10:43:30.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Post.cs",
+              "DocumentMoniker": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\Models\\Post.cs",
+              "RelativeDocumentMoniker": "WebTracNghiemOnline\\Models\\Post.cs",
+              "ToolTip": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\Models\\Post.cs",
+              "RelativeToolTip": "WebTracNghiemOnline\\Models\\Post.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T10:43:29.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Topic.cs",
+              "DocumentMoniker": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\Models\\Topic.cs",
+              "RelativeDocumentMoniker": "WebTracNghiemOnline\\Models\\Topic.cs",
+              "ToolTip": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\Models\\Topic.cs",
+              "RelativeToolTip": "WebTracNghiemOnline\\Models\\Topic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T10:43:23.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\Service\\AuthService.cs",
+              "RelativeDocumentMoniker": "WebTracNghiemOnline\\Service\\AuthService.cs",
+              "ToolTip": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\Service\\AuthService.cs",
+              "RelativeToolTip": "WebTracNghiemOnline\\Service\\AuthService.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAcwJQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T12:57:08.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\Repository\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "WebTracNghiemOnline\\Repository\\IUserRepository.cs",
+              "ToolTip": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\Repository\\IUserRepository.cs",
+              "RelativeToolTip": "WebTracNghiemOnline\\Repository\\IUserRepository.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA0wBIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T12:58:52.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\Models\\User.cs",
+              "RelativeDocumentMoniker": "WebTracNghiemOnline\\Models\\User.cs",
+              "ToolTip": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\Models\\User.cs",
+              "RelativeToolTip": "WebTracNghiemOnline\\Models\\User.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBoAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T12:50:47.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "PaymentService.cs",
+              "DocumentMoniker": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\Service\\PaymentService.cs",
+              "RelativeDocumentMoniker": "WebTracNghiemOnline\\Service\\PaymentService.cs",
+              "ToolTip": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\Service\\PaymentService.cs",
+              "RelativeToolTip": "WebTracNghiemOnline\\Service\\PaymentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T05:28:39.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "TransactionRepository.cs",
+              "DocumentMoniker": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\Repository\\TransactionRepository.cs",
+              "RelativeDocumentMoniker": "WebTracNghiemOnline\\Repository\\TransactionRepository.cs",
+              "ToolTip": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\Repository\\TransactionRepository.cs",
+              "RelativeToolTip": "WebTracNghiemOnline\\Repository\\TransactionRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T05:32:15.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ExerciseHistoryDto.cs",
+              "DocumentMoniker": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\DTO\\ExerciseHistoryDto.cs",
+              "RelativeDocumentMoniker": "WebTracNghiemOnline\\DTO\\ExerciseHistoryDto.cs",
+              "ToolTip": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\DTO\\ExerciseHistoryDto.cs",
+              "RelativeToolTip": "WebTracNghiemOnline\\DTO\\ExerciseHistoryDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T03:21:15.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ExerciseHistory.cs",
+              "DocumentMoniker": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\Models\\ExerciseHistory.cs",
+              "RelativeDocumentMoniker": "WebTracNghiemOnline\\Models\\ExerciseHistory.cs",
+              "ToolTip": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\Models\\ExerciseHistory.cs",
+              "RelativeToolTip": "WebTracNghiemOnline\\Models\\ExerciseHistory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T02:52:39.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ExerciseAnswer.cs",
+              "DocumentMoniker": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\Models\\ExerciseAnswer.cs",
+              "RelativeDocumentMoniker": "WebTracNghiemOnline\\Models\\ExerciseAnswer.cs",
+              "ToolTip": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\Models\\ExerciseAnswer.cs",
+              "RelativeToolTip": "WebTracNghiemOnline\\Models\\ExerciseAnswer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T03:04:30.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Exercise.cs",
+              "DocumentMoniker": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\Models\\Exercise.cs",
+              "RelativeDocumentMoniker": "WebTracNghiemOnline\\Models\\Exercise.cs",
+              "ToolTip": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\Models\\Exercise.cs",
+              "RelativeToolTip": "WebTracNghiemOnline\\Models\\Exercise.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T03:04:32.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ExamHistoryAnswer.cs",
+              "DocumentMoniker": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\Models\\ExamHistoryAnswer.cs",
+              "RelativeDocumentMoniker": "WebTracNghiemOnline\\Models\\ExamHistoryAnswer.cs",
+              "ToolTip": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\Models\\ExamHistoryAnswer.cs",
+              "RelativeToolTip": "WebTracNghiemOnline\\Models\\ExamHistoryAnswer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T03:17:10.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "OnlineRoom.cs",
+              "DocumentMoniker": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\Models\\OnlineRoom.cs",
+              "RelativeDocumentMoniker": "WebTracNghiemOnline\\Models\\OnlineRoom.cs",
+              "ToolTip": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\Models\\OnlineRoom.cs",
+              "RelativeToolTip": "WebTracNghiemOnline\\Models\\OnlineRoom.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T03:04:04.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ExamQuestion.cs",
+              "DocumentMoniker": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\Models\\ExamQuestion.cs",
+              "RelativeDocumentMoniker": "WebTracNghiemOnline\\Models\\ExamQuestion.cs",
+              "ToolTip": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\Models\\ExamQuestion.cs",
+              "RelativeToolTip": "WebTracNghiemOnline\\Models\\ExamQuestion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T03:04:40.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "ExternalAuthController.cs",
+              "DocumentMoniker": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\Controllers\\ExternalAuthController.cs",
+              "RelativeDocumentMoniker": "WebTracNghiemOnline\\Controllers\\ExternalAuthController.cs",
+              "ToolTip": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\Controllers\\ExternalAuthController.cs",
+              "RelativeToolTip": "WebTracNghiemOnline\\Controllers\\ExternalAuthController.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwFsAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T12:50:05.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebTracNghiemOnline\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\WebTracNgiem\\WebTracNghiemOnline\\WebTracNghiemOnline\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebTracNghiemOnline\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-26T13:45:32.534Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

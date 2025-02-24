@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WebTracNghiemOnline.props" />
+</Project>
